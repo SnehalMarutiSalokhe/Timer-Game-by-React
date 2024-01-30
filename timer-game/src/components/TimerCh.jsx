@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import ResultMd from './ResultMd.jsx';
 
-import "./timerChalleges.css";
+import "./TimerChalleges.css";
 
 
 export default function TimerCh({ title, targetTime }) {
