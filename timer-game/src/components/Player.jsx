@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import './player.css';
+import './Player.css';
 export default function Player() {
   const playerNm = useRef();
 
